@@ -126,11 +126,14 @@ A list of Software for the Agon Light modern 8-bit computers.
 ## Programming languages
 - [A(gon)Basic](https://github.com/TKRoth/ABasic) - A Basic interpreter with developer enviroment.
 - [AgDev](https://github.com/pcawte/AgDev) - Port to Agon Light of TI-84-CE C/C++ Toolchain which uses LLVM and generates eZ80 ADL code.
+- [AgonDev](https://github.com/AgonPlatform/agondev) - Early access C/C++ Toolchain for the Agon platform, cross compiler on Linux/Mac/Windows
 - [agon-ez80asm](https://github.com/envenomator/agon-ez80asm) - ez80 assembler, running natively on the Agon platform.
 - [Agon Forth](https://github.com/lennart-benschop/agon-forth) - Forth for Agon computer.
+- [B Simple](https://github.com/nihirash/bsimple-ez80-compiler) - Simple compiled language similar to B. With target to eZ80(Agon Light 2). Native Agon and Cross-compiler available.
 - [Bargo](https://github.com/vascocosta/bargo) - BASIC build system and package manager.
 - [BBC Basic](https://github.com/breakintoprogram/agon-bbc-basic) - Official AGON QUARK Firmware: BASIC Interpreter.
 - [BBC Basic ADL](https://github.com/breakintoprogram/agon-bbc-basic-adl) - Official AGON QUARK Firmware: BASIC Interpreter (ADL version).
+- [Pasta/80](https://github.com/sijnstra/pasta80/tree/agon) - Early access to Turbo Pascal 3.0-compatible cross-compiler that generates machien code executables for Agon Light.
 - [TinyContext](https://github.com/Oleg-N-Cher/Context) - A tiny programming language written in itself.
 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - TRSE is a complete suite (IDE, compiler, programming language, resource editor) intended for developing games/demos for 8 / 16-bit line of computers.
 - [Z88DK](https://github.com/z88dk/z88dk) - The Development Kit for Z80 Computers.
